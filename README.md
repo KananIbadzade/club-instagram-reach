@@ -1,6 +1,6 @@
 # Club Instagram Reach
 
-Small project to analyze a public Instagram account’s posts and learn what works
+project to analyze a public Instagram account’s posts and learn what works
 (best days/hours, caption length, hashtags, engagement).  
 only use **public metadata** (likes, comments, caption, timestamp).
 
