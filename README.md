@@ -2,7 +2,7 @@
 
 Small project to analyze a public Instagram account’s posts and learn what works
 (best days/hours, caption length, hashtags, engagement).  
-We only use **public metadata** (likes, comments, caption, timestamp).
+only use **public metadata** (likes, comments, caption, timestamp).
 
 ## What’s inside
 - `main.py` – collects public post data with Instaloader → `club_dataset_public.csv` (git-ignored)
