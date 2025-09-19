@@ -1,0 +1,24 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# data outputs
+Instagram-data.csv
+club_dataset_public.csv
+club_dataset_clean.csv
+club_full.csv
+club_sample.csv
+
+# instaloader sessions (just in case)
+session-*
+*.session
+*.json.xz
+
+# OS/editor
+.DS_Store
+.vscode
+.vscode/
